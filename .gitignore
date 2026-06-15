@@ -1,0 +1,24 @@
+# 大文件 (模型和数据超过 GitHub 100MB 限制)
+*.nii
+*.nii.gz
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# 输出图片 (太大，本地保留即可)
+output/*.png
+
+# 临时文件
+*.tmp
+*.log
+.claude/
