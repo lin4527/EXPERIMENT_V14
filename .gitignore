@@ -22,3 +22,5 @@ output/*.png
 *.tmp
 *.log
 .claude/
+
+*.docx
